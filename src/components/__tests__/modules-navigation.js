@@ -10,7 +10,7 @@ const mockModule = {
   thumbnail: null,
   videoUrl: 'https://youtu.be/dlKzlksOUtU',
   topic: 'Cat-stronomy',
-  length: 164,
+  durationInSeconds: 164,
 };
 
 const mockParentTrack = {
@@ -31,7 +31,7 @@ const mockParentTrack = {
     {
       id: 'l_0',
       title: 'Exploring Time and Space',
-      length: 258,
+      durationInSeconds: 258,
     },
   ],
 };
